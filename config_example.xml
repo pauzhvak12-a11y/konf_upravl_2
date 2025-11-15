@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <package_name>A</package_name>
+  <repository_url>test_repo_example.txt</repository_url>
+  <test_repo_mode>true</test_repo_mode>
+  <package_version>0</package_version>
+  <ascii_tree_output>true</ascii_tree_output>
+  <max_depth>10</max_depth>
+  <timeout_seconds>10</timeout_seconds>
+</configuration>
