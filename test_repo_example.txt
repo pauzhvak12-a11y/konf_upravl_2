@@ -1,0 +1,7 @@
+# Формат: PACKAGE: DEP1 DEP2 ...
+A: B C
+B: C D
+C: E
+D: A
+E:
+F: A E
